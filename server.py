@@ -23,7 +23,7 @@ PUBLIC = ROOT / "public"
 DATA = ROOT / "data"
 UPLOADS = DATA / "uploads"
 DB = DATA / "waterscope.sqlite3"
-HOST, PORT = "127.0.0.1", int(os.environ.get("PORT", "8000"))
+HOST, PORT = "0.0.0.0", int(os.environ.get("PORT", "10000"))
 
 GEO_CACHE = {}
 GEO_LOCK = threading.Lock()
