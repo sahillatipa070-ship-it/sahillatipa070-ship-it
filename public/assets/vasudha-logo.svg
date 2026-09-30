@@ -1,0 +1,11 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="360" height="90" viewBox="0 0 360 90" role="img" aria-labelledby="title">
+  <title id="title">VASUDHA</title>
+  <defs>
+    <linearGradient id="leaf" x1="0" y1="0" x2="1" y2="1"><stop stop-color="#80c943"/><stop offset="1" stop-color="#1c9a60"/></linearGradient>
+    <linearGradient id="water" x1="0" y1="0" x2="1" y2="1"><stop stop-color="#0789ce"/><stop offset="1" stop-color="#16b8bb"/></linearGradient>
+  </defs>
+  <path fill="url(#leaf)" d="M8 37 36 8l16 14-31 26zM37 36 65 7l15 15-31 30z"/>
+  <path fill="url(#water)" d="M73 25c-8 12-18 23-18 34a19 19 0 0 0 38 0c0-11-11-23-20-34zm-42 26c10 7 21 7 31 1-8 15-21 21-36 15-9-4-16-10-22-18 10 5 18 6 27 2z"/>
+  <path fill="none" stroke="#12436b" stroke-linecap="round" stroke-width="5" d="M7 74c18-9 35-9 51 0"/>
+  <text x="112" y="61" fill="#12436b" font-family="Arial, sans-serif" font-size="43" font-weight="700" letter-spacing="1">VASUDHA</text>
+</svg>
